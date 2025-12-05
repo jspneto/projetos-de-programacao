@@ -6,4 +6,10 @@ Repositório para armazenar os pequenos projetos e exercícios dos cursos de pro
 
 ## Links Úteis
 
+- [Editor de Markdown][1]
+- [Gerador de Gitignore][2]
+
 ## Restrições Gerais do Gitignore
+
+[1]: https://markdown.net.br/editor/ "markdown"
+[2]: https://www.toptal.com/developers/gitignore "git"
