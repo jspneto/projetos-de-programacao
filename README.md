@@ -15,8 +15,10 @@ Repositório para armazenar os pequenos projetos e exercícios dos cursos de pro
 
 ## Restrições Gerais do Gitignore
 
+- C#
 - Python
 - Virtualenv
+- Visual Studio Code
 
 [1]: https://markdown.net.br/editor/ "markdown"
 [2]: https://www.toptal.com/developers/gitignore "git"
