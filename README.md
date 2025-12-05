@@ -5,6 +5,7 @@ Repositório para armazenar os pequenos projetos e exercícios dos cursos de pro
 ## Projetos e Cursos
 
 - [Tkinter][4]
+- [Udemy][5]
 
 ## Links Úteis
 
@@ -21,3 +22,4 @@ Repositório para armazenar os pequenos projetos e exercícios dos cursos de pro
 [2]: https://www.toptal.com/developers/gitignore "git"
 [3]: https://github.com/jspneto/projetos-de-programacao/tree/main/comGit "git"
 [4]: https://github.com/jspneto/projetos-de-programacao/tree/main/tkinter "python"
+[5]: https://github.com/jspneto/projetos-de-programacao/tree/main/udemy "curso"
