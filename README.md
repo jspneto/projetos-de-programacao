@@ -12,6 +12,9 @@ Repositório para armazenar os pequenos projetos e exercícios dos cursos de pro
 
 ## Restrições Gerais do Gitignore
 
+- Python
+- Virtualenv
+
 [1]: https://markdown.net.br/editor/ "markdown"
 [2]: https://www.toptal.com/developers/gitignore "git"
 [3]: https://github.com/jspneto/projetos-de-programacao/tree/main/comGit "git"
