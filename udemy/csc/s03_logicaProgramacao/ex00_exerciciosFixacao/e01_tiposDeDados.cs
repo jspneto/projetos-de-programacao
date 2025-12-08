@@ -1,10 +1,10 @@
 using System;
 using System.Globalization;
 
-namespace S03_logicaProgramacao
+namespace s03_logicaProgramacao.ex00_exerciciosFixacao
 {
     
-    internal class F01_tiposDeDados
+    internal class E01_tiposDeDados
     {
         
         static void Main(string[] args)
