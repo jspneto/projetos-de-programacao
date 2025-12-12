@@ -15,11 +15,11 @@ var
 
     nota1, nota2, media: real
 
-procedimento validarNota(var nota: real; limI: real; limS: real)
+procedimento validarEntrada(var entrada: real; limI: real; limS: real)
     inicio
         enquanto ((entrada < limI) ou (entrada > limS)) faca
-            escreva("  Nota inválida. Digite novamente: ")
-            leia(nota)
+            escreva("  Valor inválido. Digite novamente: ")
+            leia(entrada)
         fimenquanto
 fimprocedimento
 
@@ -29,11 +29,11 @@ inicio
     escreval()
     escreva("# Digite a nota da 1ª avaliação: ")
     leia(nota1)
-    validarNota(nota1, 0.0, 10.0)
+    validarEntrada(nota1, 0.0, 10.0)
     escreval()
     escreva("# Digite a nota da 2ª avaliação: ")
     leia(nota2)
-    validarNota(nota2, 0.0, 10.0)
+    validarEntrada(nota2, 0.0, 10.0)
 
     media <- (nota1 + nota2) / 2
 
