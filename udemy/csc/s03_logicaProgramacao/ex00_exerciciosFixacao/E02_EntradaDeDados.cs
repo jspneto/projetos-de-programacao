@@ -4,10 +4,10 @@ using System.Globalization;
 namespace s03_logicaProgramacao.ex00_exerciciosFixacao
 {
 
-    internal class E02_entradaDeDados
+    internal class E02_EntradaDeDados
     {
 
-        static void Main(string[] args)
+        public static void Executar()
         {
 
             Console.Write("Entre com o seu nome completo: ");

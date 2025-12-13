@@ -4,10 +4,10 @@ using System.Globalization;
 namespace s03_logicaProgramacao.ex00_exerciciosFixacao
 {
     
-    internal class E01_tiposDeDados
+    internal class E01_TiposDeDados
     {
         
-        static void Main(string[] args)
+        public static void Executar()
         {
             
             string produto1 = "Computador";

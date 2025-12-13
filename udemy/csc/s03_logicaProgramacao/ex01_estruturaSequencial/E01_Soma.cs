@@ -12,10 +12,10 @@ namespace s03_logicaProgramacao.ex01_estruturaSequencial
     // Faça um programa para ler dois valores inteiros, e depois mostre na tela
     // a soma desses números com uma mensagem explicativa, conforme exemplos.
 
-    internal class E01_soma
+    internal class E01_Soma
     {
         
-        static void Main(string[] args)
+        public static void Executar()
         {
             
             Console.WriteLine("Programa para Somar Dois Números Inteiros");

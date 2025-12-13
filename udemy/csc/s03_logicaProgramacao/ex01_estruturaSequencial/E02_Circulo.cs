@@ -18,10 +18,10 @@ namespace s03_logicaProgramacao.ex01_estruturaSequencial
     //
     // Considere o valor de pi = 3.14159
 
-    internal class E02_circulo
+    internal class E02_Circulo
     {
         
-        static void Main(string[] args)
+        public static void Executar()
         {
             
             Console.WriteLine("Programa para Calcular a Área de um Círculo");

@@ -13,10 +13,10 @@ namespace s03_logicaProgramacao.ex01_estruturaSequencial
     // seguir, calcule e mostre a diferença do produto de A e B pelo produto
     // de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
 
-    internal class E03_diferenca
+    internal class E03_Diferenca
     {
         
-        static void Main(string[] args)
+        public static void Executar()
         {
             
             string msgIntroducao = "Programa para Calcular a Diferença do";
